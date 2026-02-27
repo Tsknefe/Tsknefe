@@ -69,7 +69,6 @@
 
 ## 📌 Featured Repositories
 
-> Buraya **repo isimlerini** kendine göre düzenle 👇
 
 - **Crypto Trading Bot (FastAPI)** → `Cleancode`
 - **BankApiABP** → `BankApiAbp`
@@ -92,7 +91,6 @@
 
 ## 🟩 Contribution Graph (snake)
 
-> Snake bazen çalışmayabiliyor; istersen bunu Actions ile otomatikleştiririz.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tsknefe/Tsknefe/output/github-contribution-grid-snake.svg" />
